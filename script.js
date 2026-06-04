@@ -14,8 +14,8 @@ const data = [
     text: "I'm Hungry"
   },
   {
-    image: 'https://images.unsplash.com/photo-1511295742364-92b9345f6853?w=400&q=80',
-    text: "I'm Tired"
+  image: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&q=80',
+  text: "I'm Tired"
   },
   {
     image: 'https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=400&q=80',
